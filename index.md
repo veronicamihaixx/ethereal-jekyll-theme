@@ -1,3 +1,8 @@
+---
+layout: default
+title: Ethereal by HTML5 UP
+---
+
 <!DOCTYPE HTML>
 <!--
 	Ethereal by HTML5 UP
