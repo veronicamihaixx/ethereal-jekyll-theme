@@ -345,24 +345,24 @@ Instructions:
 			Example
 
 				<div class="gallery">
-					<a href="/images/thumbnails/01.jpg" class="image filtered span-2" data-position="center">
-						<img src="/images/fulls/01.jpg" alt="" />
+					<a href="/assets/images/thumbnails/01.jpg" class="image filtered span-2" data-position="center">
+						<img src="/assets/images/fulls/01.jpg" alt="" />
 					</a>
-					<a href="/images/thumbnails/02.jpg" class="image filtered span-4" data-position="center">
-						<img src="/images/fulls/02.jpg" alt="" />
+					<a href="/assets/images/thumbnails/02.jpg" class="image filtered span-4" data-position="center">
+						<img src="/assets/images/fulls/02.jpg" alt="" />
 					</a>
 					<div class="group span-4">
-						<a href="/images/thumbnails/03.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/03.jpg" alt="" />
+						<a href="/assets/images/thumbnails/03.jpg" class="image filtered span-2" data-position="center">
+							<img src="/assets/images/fulls/03.jpg" alt="" />
 						</a>
-						<a href="/images/thumbnails/04.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/04.jpg" alt="" />
+						<a href="/assets/images/thumbnails/04.jpg" class="image filtered span-2" data-position="center">
+							<img src="/assets/images/fulls/04.jpg" alt="" />
 						</a>
-						<a href="/images/thumbnails/05.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/05.jpg" alt="" />
+						<a href="/assets/images/thumbnails/05.jpg" class="image filtered span-2" data-position="center">
+							<img src="/assets/images/fulls/05.jpg" alt="" />
 						</a>
-						<a href="/images/thumbnails/06.jpg" class="image filtered span-2" data-position="center">
-							<img src="/images/fulls/06.jpg" alt="" />
+						<a href="/assets/images/thumbnails/06.jpg" class="image filtered span-2" data-position="center">
+							<img src="/assets/images/fulls/06.jpg" alt="" />
 						</a>
 					</div>
 				</div>
